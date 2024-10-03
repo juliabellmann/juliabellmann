@@ -25,9 +25,9 @@ Die Leidenschaft für Codes und die Funktionsweise von Programmen hat sich bei m
 
 
 ### - Backend - Technologies
-![Static Badge](https://img.shields.io/badge/Arduino-%2300878F?style=for-the-badge&logo=arduino&labelColor=black)
-![Static Badge](https://img.shields.io/badge/Arduino-%2300878F?style=for-the-badge&logo=arduino&labelColor=black)
-![Static Badge](https://img.shields.io/badge/Arduino-%2300878F?style=for-the-badge&logo=arduino&labelColor=black)
+* ![Static Badge](https://img.shields.io/badge/Arduino-%2300878F?style=for-the-badge&logo=arduino&labelColor=black)
+* ![Static Badge](https://img.shields.io/badge/Arduino-%2300878F?style=for-the-badge&logo=arduino&labelColor=black)
+* ![Static Badge](https://img.shields.io/badge/Arduino-%2300878F?style=for-the-badge&logo=arduino&labelColor=black)
 
 ### Versioning and hosting
 
