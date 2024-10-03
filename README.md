@@ -48,4 +48,6 @@ Die Leidenschaft für Codes und die Funktionsweise von Programmen hat sich bei m
 
 ---
 ## Current activity
-![GitHub followers](https://img.shields.io/github/followers/juliabellmann?style=for-the-badge&logo=github&logoColor=%23098D7D&color=%23098D7D)
+![GitHub followers](https://img.shields.io/github/followers/juliabellmann?style=for-the-badge&logo=github&labelColor=black&color=white)
+
+
