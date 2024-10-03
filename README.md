@@ -4,9 +4,21 @@ Herzlich Willkommen auf meinem Git-Hub Profil.
 
 Hier werde ich in nächster Zeit nach und nach mehr von meinen Projekten hochladen.
 
+
 ## 🖋 Aubout me
 
-Die Leidenschaft für Codes und die Funktionsweise von Programmen hat sich bei mir schon sehr früh gezeigt. 
+Die Leidenschaft für Codes und die Funktionsweise von Programmen hat sich bei mir schon sehr früh gezeigt. Durch mein intuitives Grundverständnis für Programme und Programmiersprachen fällt es mir leicht schnell deren Syntax und Logik nachzuvollziehen.
+
+
+## Qualifications
+
+- achieved:
+  - Certified Web Designer
+  - Certified JavaScript Developer
+
+- in progress:
+  - Web Developer
+
 
 ## Skills - always developing them
 
