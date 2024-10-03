@@ -47,7 +47,16 @@ Die Leidenschaft für Codes und die Funktionsweise von Programmen hat sich bei m
 
 
 ---
-## Current activity
+## GitHub Stats
+
+<a href="https://github.com/juliabellmann/juliabellmann">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliabellmann&hide=java,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+
+<br />
+<br />
+
 ![GitHub followers](https://img.shields.io/github/followers/juliabellmann?style=for-the-badge&logo=github&labelColor=black&color=white)
+
 
 
