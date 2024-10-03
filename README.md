@@ -4,10 +4,24 @@ Herzlich Willkommen auf meinem Git-Hub Profil.
 
 Hier werde ich in nächster Zeit nach und nach mehr von meinen Projekten hochladen.
 
+<br />
+
+*Welcome to my GitHub profile.*
+
+*In the coming weeks, I will gradually upload more of my projects here.*
+
+<br />
+
+*If you spot any glitches 🐞, please set them free — they just need a little space to debug!*
+
 ---
 ## 🖋 Aubout me
 
 Die Leidenschaft für Codes und die Funktionsweise von Programmen hat sich bei mir schon sehr früh gezeigt. Durch mein intuitives Grundverständnis für Programme und Programmiersprachen fällt es mir leicht schnell deren Syntax und Logik nachzuvollziehen.
+
+<br />
+
+*The passion for coding and understanding how programs work has been evident in me since very early on. Through my intuitive grasp of programs and programming languages, it's easy for me to quickly understand their syntax and logic.*
 
 ---
 ## Qualifications
@@ -60,6 +74,5 @@ Die Leidenschaft für Codes und die Funktionsweise von Programmen hat sich bei m
 <br />
 
 ![GitHub followers](https://img.shields.io/github/followers/juliabellmann?style=for-the-badge&logo=github&labelColor=black&color=white)
-
 
 
