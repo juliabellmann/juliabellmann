@@ -39,14 +39,27 @@ Die Leidenschaft für Codes und die Funktionsweise von Programmen hat sich bei m
 ### -> Documentation and formatting
 ![md](https://img.shields.io/badge/Markdown-black?style=for-the-badge&logo=markdown&labelColor=black)
 
-### -> Frontend - Technologies
-![html5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&labelColor=black)   ![css3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&labelColor=black)   ![sass](https://img.shields.io/badge/SASS-black?style=for-the-badge&logo=sass&labelColor=black)   ![bs](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap&labelColor=black)  
-  
+### -> Frontend - technologies
+![html5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&labelColor=black)
+![css3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&labelColor=black)
+![sass](https://img.shields.io/badge/SASS-black?style=for-the-badge&logo=sass&labelColor=black)  
+
+
 ![js](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&labelColor=black) 
 ![react](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&labelColor=black)
+![nextjs](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs)
 
-### -> Backend - Technologies
-![node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=nodedotjs&labelColor=black)   ![MongoDB](https://img.shields.io/badge/MobgoBD-black?style=for-the-badge&logo=mongodb&labelColor=black)   ![wp](https://img.shields.io/badge/WordPress-black?style=for-the-badge&logo=wordpress&labelColor=black)
+#### --> Frameworks
+![bs](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap&labelColor=black) 
+![tailwind](https://img.shields.io/badge/Tailwind-black?style=for-the-badge&logo=tailwindcss)
+
+
+### -> Backend - technologies
+![node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=nodedotjs&labelColor=black)
+![MongoDB](https://img.shields.io/badge/MobgoBD-black?style=for-the-badge&logo=mongodb&labelColor=black)
+
+### -> other web - tools
+![wp](https://img.shields.io/badge/WordPress-black?style=for-the-badge&logo=wordpress&labelColor=black)
 
 ### -> Versioning and hosting
 ![git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&labelColor=black) 
