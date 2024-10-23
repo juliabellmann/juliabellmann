@@ -15,7 +15,16 @@ Hier werde ich in nächster Zeit nach und nach mehr von meinen Projekten hochlad
 *If you spot any glitches 🐞, please set them free — they just need a little space to debug!*
 
 ---
-## 🖋 Aubout me
+## Personal Website
+
+Über diesen Link kann man direkt auf meine persönliche Webseite gelangen.
+
+*This link will take you directly to my personal website.*
+
+-> https://portfolio-jb-webdev.vercel.app/
+
+---
+## 🖋 About me
 
 Die Leidenschaft für Codes und die Funktionsweise von Programmen hat sich bei mir schon sehr früh gezeigt. Durch mein intuitives Grundverständnis für Programme und Programmiersprachen fällt es mir leicht schnell deren Syntax und Logik nachzuvollziehen.
 
