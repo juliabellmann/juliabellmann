@@ -49,9 +49,9 @@ Die Leidenschaft für Codes und die Funktionsweise von Programmen hat sich bei m
 ![md](https://img.shields.io/badge/Markdown-black?style=for-the-badge&logo=markdown&labelColor=black)
 
 ### -> Frontend - technologies
-![html5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&labelColor=black) :smile:
-![css3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&labelColor=black) :smile:
-![sass](https://img.shields.io/badge/SASS-black?style=for-the-badge&logo=sass&labelColor=black) :smile:
+![html5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&labelColor=black)
+![css3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&labelColor=black)
+![sass](https://img.shields.io/badge/SASS-black?style=for-the-badge&logo=sass&labelColor=black)
 
 
 ![js](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&labelColor=black) 
@@ -81,7 +81,6 @@ Die Leidenschaft für Codes und die Funktionsweise von Programmen hat sich bei m
 ### -> Mikrocontroller
 ![arduino](https://img.shields.io/badge/Arduino-black?style=for-the-badge&logo=arduino&labelColor=black)
 
-Legend: advanced-level: :smile: competend-level: :relaxed: ; beginner-level: :neutral_face:
 ---
 ## GitHub Stats
 
