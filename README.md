@@ -21,7 +21,7 @@ Hier werde ich in nächster Zeit nach und nach mehr von meinen Projekten hochlad
 
 *This link will take you directly to my personal website.*
 
--> https://portfolio-jb-webdev.vercel.app/
+-> [zum Portfolio](https://jb-webdev-portfolio.vercel.app/)
 
 ---
 ## 🖋 About me
