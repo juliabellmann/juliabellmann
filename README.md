@@ -62,7 +62,6 @@ Die Leidenschaft für Codes und die Funktionsweise von Programmen hat sich bei m
 ![bs](https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap&labelColor=black) 
 ![tailwind](https://img.shields.io/badge/Tailwind-black?style=for-the-badge&logo=tailwindcss)
 
-
 ### -> Backend - technologies
 ![node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=nodedotjs&labelColor=black)
 ![MongoDB](https://img.shields.io/badge/MobgoBD-black?style=for-the-badge&logo=mongodb&labelColor=black)
@@ -73,6 +72,9 @@ Die Leidenschaft für Codes und die Funktionsweise von Programmen hat sich bei m
 ### -> Versioning and hosting
 ![git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&labelColor=black) 
 ![github](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&labelColor=black)
+
+### -> Design
+![Static Badge](https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma&logoColor=%23F24E1E)
 
 ### -> Programming languages
 ![cpp](https://img.shields.io/badge/C%2B%2B-black?style=for-the-badge&logo=cplusplus&labelColor=black) 
