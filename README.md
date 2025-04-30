@@ -6,7 +6,7 @@ Hier werde ich in nächster Zeit nach und nach mehr von meinen Projekten hochlad
 
 <br />        
 
-*Welcome to my GitHub profile.*
+*Welcome to my GitHub profile.*       
 
 *In the coming weeks, I will gradually upload more of my projects here.*
 
