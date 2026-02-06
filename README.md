@@ -12,7 +12,7 @@ Hier werde ich in nächster Zeit nach und nach mehr von meinen Projekten hochlad
 
 <br />
 
-*If you spot any glitches 🐞, please set them free — they just need a little space to debug!*
+*If you spot a bug 🐞, please set him free — bugs just need a little space to debug!*
 
 ---
 ## Personal Website
